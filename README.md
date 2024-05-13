@@ -1,3 +1,5 @@
+Entrega 1:
+
 Debido a la carga del video cuando lo compilábamos, todos los algoritmos del archivo se pasmaban. Por lo que adjuntamos dos archivos.
 Por lo cual empezaremos a trabajar en visual studio y subiremos los avances semanales de código en el main.jyp
 
